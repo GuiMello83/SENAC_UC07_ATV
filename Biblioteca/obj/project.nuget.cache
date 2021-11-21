@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQk1i5yYG8sNVnMIfaxjRmkc+ZIZaIZZrJgnkWReE36FTDO+QQQI1JQTC/0MtEaWE1Seu5e0t4Z9WgRdWq0WZg==",
+  "dgSpecHash": "lcXq0iIIZ3YmuDgtM2Jct3Zzj0ufUdIM5aNDhAbSvpsK2VgJq23ut+6HjzYmOByuOh1R0ga6eLsnHlX0tfIiFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\SENAC_UC07_ATV\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guimv\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\guimv\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",

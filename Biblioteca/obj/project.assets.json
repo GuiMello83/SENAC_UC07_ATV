@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\SENAC_UC07_ATV\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\SENAC_UC07_ATV\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\guimv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\guimv\\Desktop\\GMM\\Cursos\\Senac\\Documentar e manutencao\\Biblioteca - netcore3.1\\SENAC_UC07_ATV\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guimv\\AppData\\Roaming\\NuGet\\NuGet.Config"
