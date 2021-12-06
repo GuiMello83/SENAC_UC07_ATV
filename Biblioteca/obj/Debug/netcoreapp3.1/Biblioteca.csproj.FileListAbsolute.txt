@@ -104,3 +104,9 @@ C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - net
 C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\listaDeUsuarios.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Documentar e manutencao\Biblioteca - netcore3.1\SENAC_UC07_ATV\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
